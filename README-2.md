@@ -50,10 +50,7 @@ Bridging the gap between **empirical machine learning research** and **high-thro
 
 ### `03 // TELEMETRY`
 
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Aaron-ChristCDI&show_icons=true&theme=default&bg_color=FFFFFF&border_color=E2E8F0&title_color=0F172A&text_color=475569&icon_color=0F172A&hide_rank=true" alt="GitHub Metrics" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aaron-ChristCDI&layout=compact&theme=default&bg_color=FFFFFF&border_color=E2E8F0&title_color=0F172A&text_color=475569" alt="Language Distribution" />
-</div>
+<img alt="Aaron-ChristCDI's github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Aaron-ChristCDI&include_all_commits=true&theme=road_trip&avatar_border=true&dithering=true" />
 
 ---
 
