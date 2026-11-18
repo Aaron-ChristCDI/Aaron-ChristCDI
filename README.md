@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./about-me.svg" width="150" alt="about.me">
+<img src="./aboutme.svg" width="150" alt="about.me">
 
 <!-- Minimalist White-Theme Architectural Banner -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,100:F8FAFC&height=140&section=header&text=AARON%20P%20SAJI&fontSize=38&fontColor=0F172A&fontAlignY=45&desc=AI%20%2F%20ML%20SOFTWARE%20ENGINEER%20%E2%80%94%20CHRIST%20UNIVERSITY&descSize=13&descColor=64748B&descAlignY=72" width="100%" alt="Aaron P Saji" /> -->
