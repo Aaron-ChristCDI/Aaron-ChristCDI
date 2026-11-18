@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Minimalist White-Theme Architectural Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,100:F8FAFC&height=140&section=header&text=AARON%20P%20SAJI&fontSize=38&fontColor=0F172A&fontAlignY=45&desc=AI%20%2F%20ML%20SOFTWARE%20ENGINEER%20%E2%80%94%20CHRIST%20UNIVERSITY&descSize=13&descColor=64748B&descAlignY=72" width="100%" alt="Aaron P Saji" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,100:F8FAFC&height=140&section=header&text=AARON%20P%20SAJI&fontSize=38&fontColor=0F172A&fontAlignY=45&desc=AI%20%2F%20ML%20SOFTWARE%20ENGINEER%20%E2%80%94%20CHRIST%20UNIVERSITY&descSize=13&descColor=64748B&descAlignY=72" width="100%" alt="Aaron P Saji" /> -->
+
+<img src="https://github-animatedbanner.vercel.app/?type=terminal&preset=monochrome&particles=matrix&particleCount=60&particleColor=%2300ff88&overlay=crt&overlayOpacity=0.4&text=%24+whoami&fontFamily=JetBrains+Mono&fontSize=38&fontWeight=700&fontColor=%2300ff88&animation=typewriter&desc=Aaron+P+Saji&descFontSize=36" width="100%" alt="Aaron P Saji" />
 
 </div>
 
